@@ -1,8 +1,8 @@
 #include<stdio.h>
 void main()
 {
-int a=10,b=10,c;
-c=a+b;
-printf("c value :%d,c);
+int a=10,b=10,d;
+d=a+b;
+printf("c value :%d,d);
 return 0;
 }
